@@ -1,4 +1,4 @@
-## Erik van Amerongen - Pharmacy Informatics Portfolio
+## Devloper Portfolio Template
 
 ### Introduction
 
