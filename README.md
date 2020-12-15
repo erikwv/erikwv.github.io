@@ -1,4 +1,4 @@
-## Developer Portfolio Landing Page Template
+## Erik van Amerongen - Pharmacy Informatics Portfolio
 
 ### Introduction
 
