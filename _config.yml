@@ -1,7 +1,6 @@
 title: Erik van Amerongen # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   <a href="https://www.linkedin.com/in/erik-van-amerongen-90650218">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
